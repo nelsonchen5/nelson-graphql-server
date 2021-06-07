@@ -1,0 +1,8 @@
+{
+  "name": "nelson-graphql-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nelsonchen5/nelson-graphql-server.git",
+  "author": "Nelson Chen <nelsonchen5@gmail.com>",
+  "license": "MIT"
+}
